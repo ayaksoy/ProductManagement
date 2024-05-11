@@ -1,0 +1,15 @@
+/Users/ahmet/development/C#/codeArn/ProductManagement/bin/Debug/net7.0/ProductManagement
+/Users/ahmet/development/C#/codeArn/ProductManagement/bin/Debug/net7.0/ProductManagement.deps.json
+/Users/ahmet/development/C#/codeArn/ProductManagement/bin/Debug/net7.0/ProductManagement.runtimeconfig.json
+/Users/ahmet/development/C#/codeArn/ProductManagement/bin/Debug/net7.0/ProductManagement.dll
+/Users/ahmet/development/C#/codeArn/ProductManagement/bin/Debug/net7.0/ProductManagement.pdb
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.csproj.AssemblyReference.cache
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.AssemblyInfoInputs.cache
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.AssemblyInfo.cs
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.csproj.CoreCompileInputs.cache
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.dll
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/refint/ProductManagement.dll
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.pdb
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ProductManagement.genruntimeconfig.cache
+/Users/ahmet/development/C#/codeArn/ProductManagement/obj/Debug/net7.0/ref/ProductManagement.dll
